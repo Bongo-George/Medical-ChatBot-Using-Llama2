@@ -1,5 +1,5 @@
 # End-to-end-Medical-Chatbot-using-Llama2
-It ia a cutting-edge AI-powered platform designed to enhance healthcare communication by providing accurate 
+It is a cutting-edge AI-powered platform designed to enhance healthcare communication by providing accurate 
 and timely information to both providers and patients. The model was custom-trained on a large and diverse dataset of medical conversations to ensure accurate, 
 informative, and contextually relevant responses. It contributed to the development of a robust, scalable, and maintainable AI solution with a strong focus on 
 data privacy and security. 
